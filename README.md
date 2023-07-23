@@ -23,6 +23,6 @@ Contributions are always welcome! Clone this repository and add your work follow
 
 - Provide the additional boilerplate files like `*.csv` , `*.txt` or any kind of pre-requisite files if demanded by that particular notebook.
 
-- Put all the files necessary for the notebook inside a folder with the name format as `DDMMYYYY`
+- Put all the files necessary for the notebook inside a folder with the name format as `DDMMYYYY` and submit a pull request.
 
 
